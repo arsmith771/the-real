@@ -1,0 +1,69 @@
+/*!
+	Theme Name: Real
+	Template: genesis
+*/
+
+/*! Table of Contents
+- HTML5 Reset
+	- Baseline Normalize
+	- Box Sizing
+	- Float Clearing
+- Defaults
+	- Typographical Elements
+	- Headings
+	- Objects
+	- Gallery
+	- Forms
+	- Tables
+	- Accessibility
+		- Screen Reader Text
+		- Skip Links
+- Structure and Layout
+	- Site Container
+	- Site Inner
+- Common Classes
+	- Avatar
+	- Genesis
+	- Search Form
+	- Titles
+	- WordPress
+- Widgets
+	- Featured Content
+- Plugins
+	- Genesis eNews Extended
+	- Genesis Simple FAQ
+	- Jetpack
+- Site Header
+	- Title Area
+- Site Navigation
+	- Responsive Menu
+	- Header Menu
+	- Footer Menu
+- Content Area
+	- Entry Content
+	- Entry Meta
+	- Pagination
+	- Entry Comments
+- Sidebar
+- Footer Widgets
+- Site Footer
+- Custom Styles
+- Homepage Styles
+- Print Styles
+*/
+
+@import "partials/variables";
+@import "partials/resets";
+@import "partials/defaults";
+@import "partials/structure";
+@import "partials/common-classes";
+@import "partials/widgets";
+@import "partials/plugins";
+@import "partials/header";
+@import "partials/menu";
+@import "partials/content-area";
+@import "partials/sidebar";
+@import "partials/footer-area";
+@import "partials/custom";
+@import "partials/home";
+@import "partials/print";
